@@ -13,3 +13,4 @@ frontend/.env.local
 backend/dist/
 frontend/.next/
 frontend/out/
+my-first-app
